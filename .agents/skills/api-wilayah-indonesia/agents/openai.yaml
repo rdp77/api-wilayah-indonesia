@@ -1,0 +1,6 @@
+interface:
+  display_name: "Api Wilayah Indonesia"
+  short_description: "Repo-specific patterns and workflows for api-wilayah-indonesia"
+  default_prompt: "Use the api-wilayah-indonesia repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
